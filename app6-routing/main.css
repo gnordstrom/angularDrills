@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+
+ul li {
+  list-style: none;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.container h1 {
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 35px;
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+.main-content {
+  width: 50vw;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+}
+
+th {
+  width: 200px;
+  text-align: center;
+}
+
+img {
+  height: 200px;
+}
+
+.header-img {
+  text-align: center;
+  margin: 10px auto;
+}
